@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title_activity_note_page">NotePage</string>
+</resources>
